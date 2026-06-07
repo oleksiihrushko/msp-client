@@ -99,4 +99,4 @@ msp-client/
 
 ## Зв'язок з electron-gcs
 
-Цей модуль є основою для [electron-gcs](../electron-gcs) — десктопного GCS-додатку з графічним інтерфейсом. Логіка `msp.js` і `parsers.js` перевикористовується в Electron-версії без змін.
+Цей модуль є основою для [electron-gcs](https://github.com/oleksiihrushko/electron-gcs) — десктопного GCS-додатку з графічним інтерфейсом. Логіка `msp.js` і `parsers.js` перевикористовується в Electron-версії без змін.
